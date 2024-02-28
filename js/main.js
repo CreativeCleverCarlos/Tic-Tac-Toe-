@@ -1,4 +1,8 @@
 
+const cellElements = document.querySelectorAll()
+
+
+
 let gameboard = [];
 
 //winning condition
